@@ -14,3 +14,7 @@
   <a href="mailto:isnaldo@live.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/9isnaldo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+##
+
+![Snake animation](https://github.com/isnaldoferreira/isnaldoferreira/blob/output/github-contribution-grid-snake.svg)
