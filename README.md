@@ -1,8 +1,8 @@
-## Olá eu sou Isnaldo Ferreira, iniciante na programação!
-
-## Olá eu sou Isnaldo Ferreira, iniciante na programação!
-
 <div align="center">
+  <h1>Olá eu sou Isnaldo Ferreira, iniciante na programação!</h1>
+  
+  <br>
+  
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/html.svg">
   <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/css.svg">
   <img align="center" alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/javascript.svg">
