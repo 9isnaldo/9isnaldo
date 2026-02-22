@@ -1,26 +1,19 @@
 ## Olá eu sou Isnaldo Ferreira, iniciante na programação!
 
 <div style="display: inline_block"><br>
-  <!-- HTML - Vermelho (#ff0000) -->
-  <img src="https://img.shields.io/badge/HTML-ff0000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/9isnaldo/assets/main/html.svg" style="filter: brightness(0) saturate(100%) invert(13%) sepia(94%) saturate(7463%) hue-rotate(0deg) brightness(100%) contrast(120%);">
   
-  <!-- CSS - Azul (#00A3FF) -->
-  <img src="https://img.shields.io/badge/CSS-00A3FF?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/9isnaldo/assets/main/css.svg" style="filter: brightness(0) saturate(100%) invert(45%) sepia(93%) saturate(2476%) hue-rotate(176deg) brightness(102%) contrast(101%);">
   
-  <!-- JavaScript - Amarelo (#F0DB4F) -->
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/9isnaldo/assets/main/javascript.svg" style="filter: brightness(0) saturate(100%) invert(82%) sepia(66%) saturate(374%) hue-rotate(348deg) brightness(97%) contrast(96%);">
   
-  <!-- TypeScript - Azul (#007ACC) -->
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/9isnaldo/assets/main/typescript.svg" style="filter: brightness(0) saturate(100%) invert(34%) sepia(98%) saturate(1486%) hue-rotate(184deg) brightness(97%) contrast(101%);">
   
-  <!-- React - Azul Ciano (#00D1FF) -->
-  <img src="https://img.shields.io/badge/React-00D1FF?style=for-the-badge&logo=react&logoColor=black" />
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/9isnaldo/assets/main/react.svg" style="filter: brightness(0) saturate(100%) invert(67%) sepia(61%) saturate(5954%) hue-rotate(163deg) brightness(102%) contrast(101%);">
   
-  <!-- Astro - Roxo (#7738ff) -->
-  <img src="https://img.shields.io/badge/Astro-7738ff?style=for-the-badge&logo=astro&logoColor=white" />
+  <img align="center" alt="Astro" height="30" width="40" src="https://raw.githubusercontent.com/9isnaldo/assets/main/astro.svg" style="filter: brightness(0) saturate(100%) invert(20%) sepia(98%) saturate(5944%) hue-rotate(261deg) brightness(99%) contrast(107%);">
   
-  <!-- Tailwind - Branco (#ffffff) com texto preto -->
-  <img src="https://img.shields.io/badge/Tailwind-ffffff?style=for-the-badge&logo=tailwind-css&logoColor=black" />
+  <img align="center" alt="Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/9isnaldo/assets/main/tailwind.svg">
 </div>
   
   ##
