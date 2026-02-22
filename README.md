@@ -1,7 +1,7 @@
 ## Olá eu sou Isnaldo Ferreira, iniciante na programação!
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/9isnaldo/assets/main/html.svg" style="filter: brightness(0) saturate(100%) invert(13%) sepia(94%) saturate(7463%) hue-rotate(0deg) brightness(100%) contrast(120%);">
+  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/html.svg" style="filter: brightness(0) saturate(100%) invert(13%) sepia(94%) saturate(7463%) hue-rotate(0deg) brightness(100%) contrast(120%);">
   
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/9isnaldo/assets/main/css.svg" style="filter: brightness(0) saturate(100%) invert(45%) sepia(93%) saturate(2476%) hue-rotate(176deg) brightness(102%) contrast(101%);">
   
