@@ -3,13 +3,15 @@
   
   <br>
   
-  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/html.svg">
-  <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/css.svg">
-  <img align="center" alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/javascript.svg">
-  <img align="center" alt="TypeScript" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/typescript.svg">
-  <img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/react.svg">
-  <img align="center" alt="Astro" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/astro.svg">
-  <img align="center" alt="Tailwind" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/tailwind.svg">
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/html.svg">
+    <img alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/css.svg">
+    <img alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/javascript.svg">
+    <img alt="TypeScript" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/typescript.svg">
+    <img alt="React" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/react.svg">
+    <img alt="Astro" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/astro.svg">
+    <img alt="Tailwind" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/tailwind.svg">
+  </div>
 </div>
   
   ##
