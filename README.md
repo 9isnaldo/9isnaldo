@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>Olá eu sou Isnaldo Ferreira, iniciante na programação!</h1>
   
   <br>
