@@ -1,9 +1,9 @@
-<div align="center">
+<div style="text-align: center;">
   <h1>Olá eu sou Isnaldo Ferreira, iniciante na programação!</h1>
   
   <br>
   
-  <div>
+  <div style="display: inline-block; white-space: nowrap;">
     <img alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/html.svg">
     <img alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/css.svg">
     <img alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/javascript.svg">
