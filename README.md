@@ -4,8 +4,8 @@
   <br>
   
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/html.svg">
-    <img alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/css.svg">
+    <img style="display: inline-block;" alt="HTML" height="50" width="50" src="...">
+    <img style="display: inline-block;" alt="CSS" height="50" width="50" src="...">
     <img alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/javascript.svg">
     <img alt="TypeScript" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/typescript.svg">
     <img alt="React" height="50" width="50" src="https://raw.githubusercontent.com/9isnaldo/assets/main/react.svg">
